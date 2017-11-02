@@ -1,0 +1,996 @@
+Isolate Tag	Date	Initials	Site #	"Original Growth Conditions (Media, Temperature, Antibiotic)"																							
+																			
+DR1	071417	"AW, YK"	3	"TS, 37C, CTX"																							
+DR2	071417	"AW, YK"	2	"TS, 37C, CTX"																							
+DR3	071417	"AW, YK"	5	"TS, 37C, CTX"																							
+DR4	071417	"AW, YK"	1	"TS, 37C, CTX"																							
+DR5	071417	"AW, YK"	1	"TS, 37C, CTX"																							
+DR6	071417	"AW, YK"	9	"TS, RT, CTX"																							
+DR7	071417	"AW, YK"	9	"TS, 37C, CTX"																							
+DR8	071417	"AW, YK"	7	"TS, 37C, CTX"																							
+DR9	071417	"AW, YK"	7	"TS, 37C, CTX"																							
+DR10	071417	"AW, YK"	3	"TS, 37C, CTX"																							
+DR11	071417	"AW, YK"	5	"TS, 37C, CTX"																							
+DR12	071417	"AW, YK"	7	"TS, 37C, CTX"																							
+DR13	071417	"AW, YK"	7	"TS, 37C, CTX"																							
+DR14	071417	"AW, YK"	5	"TS, RT, CTX"																							
+DR15	071417	"AW, YK"	8	"TS, RT, CTX"																							
+DR16	071417	"AW, YK"	5	"TS, RT, CTX"																							
+DR17	071417	"AW, YK"	8	"TS, 37C, CTX"																							
+DR18	071417	"AW, YK"	9	"TS, RT, CTX"																							
+DR19	071417	"AW, YK"	9	"TS, RT, CTX"																							
+DR20	072717	"AW, YK"	6	"TS, 37C, CTX"																							
+DR21	072717	"AW, YK"	5	"TS, 37C, CTX"																							
+DR22	072717	"AW, YK"	7	"TS, 37C, CTX"																							
+DR23	072717	"AW, YK"	8	"TS, 37C, CTX"																							
+DR24	072717	"AW, YK"	9	"TS, 37C, CTX"																							
+DR25	072717	"AW, YK"	4	"TS, 37C, CTX"																							
+DR26	072717	"AW, YK"	9	"TS, 37C, CTX"																							
+DR27	072717	"AW, YK"	2	"TS, 37C, CTX"																							
+DR28	072717	"AW, YK"	9	"MAC, 37C, no ab"																							
+DR29	072717	"AW, YK"	9	"MAC, 37C, no ab"																							
+DR30	072717	"AW, YK"	2	"MAC, 37C, CTX"																							
+DR31	072717	"AW, YK"	7	"TS, 37C, CTX"																							
+DR32	072717	"AW, YK"	6	"TS, 37C, CTX"																							
+DR33	072717	"AW, YK"	5	"TS, 37C, CTX"																							
+DR34	071417	"AW, YK"	8	"MAC, 37C, no ab"																							
+DR35	080217	"AW, YK"	9	"TS, 37C, CTX"																							
+DR36	080217	"AW, YK"	9	"TS, 37C, CTX"																							
+DR37	080217	"AW, YK"	2	"TS, 37C, CTX"																							
+DR38	080217	"AW, YK"	1	"TS, 37C, CTX"																							
+DR39	080217	"AW, YK"	4	"TS, 37C, CTX"																							
+DR40	080217	"AW, YK"	9	"TS, 37C, CTX"																							
+DR41	080217	"AW, YK"	7	"TS, 37C, CTX"																							
+DR42	080217	"AW, YK"	9	"MAC, 37C, no ab"																							
+DR43	080217	"AW, YK"	6	"TS, 37C, CTX"																							
+DR44	080217	"AW, YK"	6	"TS, 37C, CTX"																							
+DR45	080217	"AW, YK"	7	"TS, RT, CTX"																							
+DR46	080217	"AW, YK"	7	"TS, RT, CTX"																							
+DR47	080217	"AW, YK"	6	"TS, RT, CTX"																							
+DR48	080217	"AW, YK"	6	"TS, RT, CTX"																							
+DR49	080217	"AW, YK"	6	"TS, RT, CTX"																							
+DR50	080217	"AW, YK"	6	"TS, RT, CTX"																							
+DR51	080217	"AW, YK"	6	"TS, RT, CTX"																							
+DR52	080217	"AW, YK"	6	"TS, RT, CTX"																							
+DR53	080217	"AW, YK"	6	"TS, RT, CTX"																							
+DR54	080217	"AW, YK"	6	"TS, RT, CTX"																							
+DR55	080517	"AW, YK"	1	"TS, RT, CTX"																							
+DR56	080517	"AW, YK"	6	"TS, RT, CTX"																							
+DR57	080517	"AW, YK"	6	"TS, RT, CTX"																							
+DR58	080517	"AW, YK"	5	"TS, RT, CTX"																							
+DR59	080517	"AW, YK"	9	"TS, RT, CTX"																							
+DR60	080517	"AW, YK"	9	"TS, RT, CTX"																							
+DR61	080517	"AW, YK"	2	"TS, 37C, CTX"																							
+DR62	080517	"AW, YK"	5	"TS, 37C, CTX"																							
+DR63	072717	"AW, YK"	5	"TS, 37C, CTX"																							
+DR64	080517	"AW, YK"	6	"TS, 37C, CTX"																							
+DR65	080517	"AW, YK"	6	"TS, 37C, CTX"																							
+DR66	080517	"AW, YK"	9	"TS, 37C, CTX"																							
+DR67	080517	"AW, YK"	2	"TS, RT, CTX"																							
+DR68	080517	"AW, YK"	9	"TS, RT, CTX"																							
+DR69	080517	"AW, YK"	1	"TS, 37C, CTX"																							
+DR70	080517	"AW, YK"	3	"TS, 37C, CTX"																							
+DR71	080817	"AW, YK"	9	"MAC, 37C, no ab"																							
+DR72	080817	"AW, YK"	9	"MAC, 37C, no ab"																							
+DR73	080817	"AW, YK"	6	"TS, 37C, CTX"																							
+DR74	080817	"AW, YK"	5	"TS, 37C, CTX"																							
+DR75	080817	"AW, YK"	2	"TS, 37C, CTX"																							
+DR76	080817	"AW, YK"	2	"TS, 37C, CTX"																							
+DR77	080817	"AW, YK"	10	"TS, 37C, CTX"																							
+DR78	080817	"AW, YK"	7	"TS, 37C, CTX"																							
+DR79	080817	"AW, YK"	9	"TS, 37C, CTX"																							
+DR80	080817	"AW, YK"	9	"TS, 37C, CTX"																							
+DR81	080817	"AW, YK"	10	"TS, RT, CTX"																							
+DR82	080817	"AW, YK"	2	"TS, RT, CTX"																							
+DR83	080817	"AW, YK"	9	"TS, RT, CTX"																							
+DR84	080817	"AW, YK"	8	"TS, RT, CTX"																							
+DR85	080817	"AW, YK"	6	"TS, RT, CTX"																							
+DR86	080817	"AW, YK"	9	"TS, RT, CTX"																							
+DR87	080817	"AW, YK"	7	"TS, RT, CTX"																							
+DR88	080817	"AW, YK"	10	"TS, RT, CTX"																							
+DR89	080817	"AW, YK"	5	"TS, RT, CTX"																							
+DR90	080817	"AW, YK"	7	"TS, RT, CTX"																							
+DR91	080817	"AW, YK"	9	"TS, RT, CTX"																							
+DR92	080817	"AW, YK"	9	"MAC, 37C, no ab"																							
+DR93	080817	"AW, YK"	9	"MAC, 37C, CTX"																							
+DR94	080817	"AW, YK"	9	"MAC, 37C, no ab"																							
+DR95	080817	"AW, YK"	9	"MAC, 37C, CTX"																							
+DR96	081117	"AW, YK"	5	"TS, 37C, CTX"																							
+DR97	081117	"AW, YK"	8	"TS, 37C, CTX"																							
+DR98	081117	"AW, YK"	9	"TS, 37C, CTX"																							
+DR99	081117	"AW, YK"	9	"TS, 37C, CTX"																							
+DR100	081117	"AW, YK"	9	"MAC, 37C, no ab"																							
+DR101	081117	"AW, YK"	9	"MAC, 37C, no ab"																							
+DR102	081117	"AW, YK"	9	"MAC, 37C, no ab"																							
+DR103	081117	"AW, YK"	9	"MAC, 37C, CTX"																							
+DR104	081117	"AW, YK"	9	"MAC, 37C, CTX"																							
+DR105	081117	"AW, YK"	9	"TS, 37C, CTX"																							
+DR106	081117	"AW, YK"	9	"MAC, 37C, no ab"																							
+DR107	082217	YK	11	"TS, 37C, CTX"																							
+DR108	082517	YK	11	"TS, 37C, CTX"																							
+DR109	091517	"AW, TD, JH"	5	"TS, 37C, CTX"																							
+DR110	091517	"AW, TD, JH"	5	"TS, 37C, CTX"																							
+DR111	091517	"AW, TD, JH"	5	"TS, 37C, CTX"																							
+DR112	091517	"AW, TD, JH"	5	"MAC, 37C, no ab"																							
+DR113	091517	"YK, AA, KW"	9	"TS, 37C, CTX"																							
+DR114	091517	"YK, AA, KW"	9	"TS, 37C, CTX"																							
+DR115	091517	"YK, AA, KW"	9	"TS, 37C, CTX"																							
+DR116	091517	"YK, AA, KW"	8	"TS, 37C, CTX"																							
+DR117	092017	"AW, TD, JH"	9	"MAC, 37C, no ab"																							
+DR118	092017	"AW, TD, JH"	9	"MAC, 37C, no ab"																							
+DR119	092017	"AW, TD, JH"	10	"MAC, 37C, no ab"																							
+DR120	092017	"AW, TD, JH"	6	"TS, 37C, CTX"																							
+DR121	092017	"AW, TD, JH"	10	"TS, 37C, CTX"																							
+DR122	092017	"AW, TD, JH"	8	"TS, 37C, CTX"																							
+DR123	092017	"AW, TD, JH"	9	"TS, 37C, CTX"																							
+DR124	092017	"AW, TD, JH"	9	"TS, 37C, CTX"																							
+DR125	092017	"AW, TD, JH"	10	"TS, 37C, CTX"																							
+DR126	092217	"AD, BW, FL"	1	"TS, 37C, CTX"																							
+DR127	092217	"AD, BW, FL"	4	"TS, 37C, CTX"																							
+DR128	092217	"AD, BW, FL"	3	"TS, 37C, CTX"																							
+DR129	092217	"YK, AA, KW"	2	"TS, 37C, CTX"																							
+DR130	092217	"YK, AA, KW"	5	"TS, 37C, CTX"																							
+DR131	092217	"YK, AA, KW"	5	"TS, 37C, CTX"																							
+DR132	092017	"AW, TD, JH"	9	"MAC, 37C, CTX"																							
+DR133	092017	"AW, TD, JH"	9	"MAC, 37C, CTX"																							
+DR134	100517	"AD, BW, FL"	9	"TS, 37C, CTX"																							
+DR135	100517	"AD, BW, FL"	9	"TS, 37C, CTX"																							
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
